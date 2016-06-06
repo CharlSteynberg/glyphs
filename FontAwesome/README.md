@@ -1,6 +1,6 @@
 # Font-Awesome
 
-**Unofficial Respository** *(Disclaimer: these fonts are not "official")*
+**Unofficial Respository** *(Disclaimer: these glyphs are not "official")*
 
 Updated from `FontAwesome` version: **4.6.3 2016**<br>
 This *unofficial* `FontAwesome` version is: **4.6.4 2016**
