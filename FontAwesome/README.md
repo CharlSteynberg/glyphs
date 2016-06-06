@@ -6,7 +6,7 @@ Updated from `FontAwesome` version: **4.6.3 2016**<br>
 This *unofficial* `FontAwesome` version is: **4.6.4 2016**
 <br>
 
-The CSS and font files here are amended and contain the glyphs (and CSS glyph names) described below.
+The CSS and font files here are updated to contain the glyphs (and CSS glyph names) described below.
 
 
 ### Icons Added
